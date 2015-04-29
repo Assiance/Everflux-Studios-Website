@@ -272,6 +272,7 @@
     <Content Include="Content\images\grabbing.png" />
     <Content Include="Content\images\logo-white.svg" />
     <Content Include="Content\images\logo.svg" />
+    <Content Include="Content\images\logoblue.png" />
     <Content Include="Content\main.css" />
     <Content Include="Content\navy.css" />
     <Content Include="Content\orange.css" />
@@ -362,6 +363,8 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Home\fullpage.cshtml" />
+    <Content Include="Views\Home\Services.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

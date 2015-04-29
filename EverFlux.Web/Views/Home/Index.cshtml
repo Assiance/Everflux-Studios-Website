@@ -2,12 +2,12 @@
     ViewBag.Title = "Home Page";
 }
 
-<!-- ============================================================= SECTION – HERO ============================================================= -->
+        <!-- ============================================================= SECTION – HERO ============================================================= -->
 
 <section id="hero">
     <div id="owl-main" class="owl-carousel height-lg owl-inner-nav owl-ui-lg">
-        <img src="~/Content/images/art/slider01.jpg" />
-        <div class="item" style="background-image: url(~/Content/images/art/slider01.jpg);">
+
+        <div class="item" style="background-image: url(@Url.Content("~/Content/images/art/slider01.jpg"));">
             <div class="container">
                 <div class="caption vertical-center text-center">
 
@@ -21,7 +21,7 @@
             </div><!-- /.container -->
         </div><!-- /.item -->
 
-        <div class="item" style="background-image: url(~/Content/images/art/slider02.jpg);">
+        <div class="item" style="background-image: url(@Url.Content("~/Content/images/art/slider02.jpg"));">
             <div class="container">
                 <div class="caption vertical-center text-right">
 
@@ -35,7 +35,7 @@
             </div><!-- /.container -->
         </div><!-- /.item -->
 
-        <div class="item" style="background-image: url(~/Content/images/art/slider03.jpg);">
+        <div class="item" style="background-image: url(@Url.Content("~/Content/images/art/slider03.jpg"));">
             <div class="container">
                 <div class="caption vertical-center text-left">
 
@@ -49,7 +49,7 @@
             </div><!-- /.container -->
         </div><!-- /.item -->
 
-        <div class="item" style="background-image: url(~/Content/images/art/slider04.jpg);">
+        <div class="item" style="background-image: url(@Url.Content("~/Content/images/art/slider04.jpg"));">
             <div class="container">
                 <div class="caption vertical-top text-right">
 
@@ -63,7 +63,7 @@
             </div><!-- /.container -->
         </div><!-- /.item -->
 
-        <div class="item" style="background-image: url(~/Content/images/art/slider05.jpg);">
+        <div class="item" style="background-image: url(@Url.Content("~/Content/images/art/slider05.jpg"));">
             <div class="container">
                 <div class="caption vertical-top text-center">
 
@@ -288,7 +288,7 @@
                         </figure>
                     </a>
                 </div><!-- /.item -->
-
+          
                 <div class="item">
                     <a href="portfolio-post.html">
                         <figure>
@@ -299,6 +299,8 @@
                                 </div><!-- /.info -->
                             </figcaption>
                             <img src="~/Content/images/art/work12.jpg" alt="">
+                            
+
                         </figure>
                     </a>
                 </div><!-- /.item -->
