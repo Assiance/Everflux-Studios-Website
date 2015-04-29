@@ -281,6 +281,7 @@
     <Content Include="Content\pink.css" />
     <Content Include="Content\purple.css" />
     <Content Include="Content\red.css" />
+    <Content Include="EverFlux.Web.publish.xml" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\fontello.css" />
     <Content Include="fonts\fontello\fontello-circle.svg" />
@@ -304,6 +305,7 @@
     <Content Include="fonts\fontello\fontello.eot" />
     <Content Include="fonts\fontello\fontello.ttf" />
     <Content Include="fonts\fontello\fontello.woff" />
+    <None Include="Properties\PublishProfiles\Default Settings.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
