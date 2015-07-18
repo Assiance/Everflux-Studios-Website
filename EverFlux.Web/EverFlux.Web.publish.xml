@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<publishData>
+  <publishProfile
+    publishUrl="https://everfluxstudios-001-site1.mywindowshosting.com:8172/msdeploy.axd"
+    msdeploySite="everfluxstudios-001-site1"
+    destinationAppUrl="http://everfluxstudios-001-site1.mywindowshosting.com/"
+    profileName="Default Settings"
+    publishMethod="MSDeploy"
+    userName="ifc\everfluxstudios-001" />
+</publishData>
+
+<!--everfluxrocks!-->
+<!--everfluxrocks!-->
